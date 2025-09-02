@@ -104,5 +104,3 @@ This project focuses on predicting **Parkinson's Disease** using **Machine Learn
 * **Muhammad Sohail Shahzad**
 
 ---
-
-Do you want me to make this README **short and GitHub-style (concise)**, or keep it **detailed like a research report summary**?
